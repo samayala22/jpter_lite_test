@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-29T15:52:16.745904Z",
+      "format": null,
+      "last_modified": "2022-06-29T15:51:03.222020Z",
+      "mimetype": "text/csv",
+      "name": "biodiesel.csv",
+      "path": "theme4/assets/biodiesel.csv",
+      "size": 355,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-29T15:52:16.749904Z",
+      "format": null,
+      "last_modified": "2022-06-29T15:51:03.226021Z",
+      "mimetype": "image/png",
+      "name": "reaction_biodiesel.png",
+      "path": "theme4/assets/reaction_biodiesel.png",
+      "size": 38590,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-29T15:52:16.745904Z",
+      "format": null,
+      "last_modified": "2022-06-29T15:51:03.226021Z",
+      "mimetype": null,
+      "name": "ecoinvent.parquet",
+      "path": "theme4/assets/ecoinvent.parquet",
+      "size": 203042,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-29T15:52:16.745904Z",
+      "format": null,
+      "last_modified": "2022-06-29T15:51:03.222020Z",
+      "mimetype": null,
+      "name": "chempy.parquet",
+      "path": "theme4/assets/chempy.parquet",
+      "size": 95245,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-29T15:52:16.745904Z",
+      "format": null,
+      "last_modified": "2022-06-29T15:51:03.226021Z",
+      "mimetype": "image/png",
+      "name": "chromato_biodiesel.png",
+      "path": "theme4/assets/chromato_biodiesel.png",
+      "size": 93644,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-29T15:52:16.749904Z",
+      "format": null,
+      "last_modified": "2022-06-29T15:51:03.226021Z",
+      "mimetype": "image/jpeg",
+      "name": "iris.jpg",
+      "path": "theme4/assets/iris.jpg",
+      "size": 53651,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-29T15:52:16.749904Z",
+  "format": "json",
+  "last_modified": "2022-06-29T15:52:16.749904Z",
+  "mimetype": null,
+  "name": "assets",
+  "path": "theme4/assets",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
