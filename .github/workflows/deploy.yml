@@ -24,7 +24,7 @@ jobs:
       - name: Build the JupyterLite site
         run: |
           cp README.md content
-          jupyter lite build --contents content
+          jupyter lite build --contents content --no-unused-shared-packages --no-sourcemaps
       - name: Upload (dist)
         uses: actions/upload-artifact@v2
         with:
