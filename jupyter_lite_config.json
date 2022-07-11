@@ -1,0 +1,12 @@
+{
+    "LiteBuildConfig": {
+        "contents": ["content"],
+        "no_unused_shared_packages": true
+    },
+    "XeusPythonEnv": {
+        "packages": [
+            "numpy",
+            "pandas"
+        ]
+    }
+}
