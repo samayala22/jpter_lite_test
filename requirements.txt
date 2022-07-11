@@ -7,4 +7,4 @@ jupyterlab~=3.4.3
 jupyterlab-drawio
 jupyterlab-language-pack-fr-FR
 jupyterlite==0.1.0b10
-jupyterlite-xeus-python
+jupyterlite-xeus-python>=0.5

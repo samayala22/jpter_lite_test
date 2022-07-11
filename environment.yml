@@ -1,0 +1,21 @@
+name: faps-th4
+
+channels:
+- conda-forge
+
+dependencies:
+- python=3.8
+- mamba
+- pydata-sphinx-theme
+- myst-parser
+- empack
+- ipycanvas >=0.9.1
+- ipyevents >=2.0.1
+- ipyleaflet
+- ipympl>=0.8.2
+- ipywidgets>=7.7,<8
+- jupyterlab>=3.4.3,<4
+- jupyterlab-language-pack-fr-FR
+- pip:
+  - jupyterlite-xeus-python>=0.5
+  - jupyterlite==0.1.0b10
