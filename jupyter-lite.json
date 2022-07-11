@@ -2,7 +2,7 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-beta.9",
+    "appVersion": "0.1.0-beta.10",
     "baseUrl": "./",
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
@@ -24,6 +24,34 @@
         "load": "static/remoteEntry.b75c764d727b50009261.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/geojson-extension",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
+        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
+        "name": "@jupyterlite/p5-kernel-extension",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
+        "load": "static/remoteEntry.f69e84c5aaec83c179ca.js",
+        "name": "@jupyterlite/xeus-lua-kernel",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
+        "load": "static/remoteEntry.960d5d0f875a651e597f.js",
+        "name": "@jupyterlite/xeus-sqlite-kernel",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
+        "load": "static/remoteEntry.6e7c2ba8038680301a15.js",
+        "name": "@jupyterlite/xeus-wren-kernel",
         "style": "./style"
       },
       {
@@ -71,9 +99,23 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.a7ffe26201ed2eee8505.js",
+        "name": "jupyter-wren-syntax",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.8f896d6ad92823566c46.js",
         "name": "jupyterlab-drawio",
         "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.66500334d7b36213676e.js",
+        "mimeExtension": "./mimeExtension",
+        "name": "jupyterlab-plotly"
       },
       {
         "extension": "./extension",
