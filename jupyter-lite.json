@@ -1,9 +1,13 @@
 {
   "jupyter-config-data": {
-    "appName": "JupyterLite",
+    "appName": "FAPS TH4",
     "appUrl": "./lab",
     "appVersion": "0.1.0-beta.10",
     "baseUrl": "./",
+    "disabledExtensions": [
+      "@jupyterlite/javascript-kernel-extension",
+      "@jupyterlite/pyolite-kernel-extension"
+    ],
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
