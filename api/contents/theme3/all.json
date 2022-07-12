@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-12T00:33:00.934707Z",
+      "format": null,
+      "last_modified": "2022-07-12T00:31:50.847493Z",
+      "mimetype": null,
+      "name": "theme3.ipynb",
+      "path": "theme3/theme3.ipynb",
+      "size": 60930,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T00:33:00.934707Z",
+      "format": null,
+      "last_modified": "2022-07-12T00:33:00.934707Z",
+      "mimetype": null,
+      "name": "assets",
+      "path": "theme3/assets",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T00:33:00.934707Z",
+      "format": null,
+      "last_modified": "2022-07-12T00:31:50.843493Z",
+      "mimetype": "text/plain",
+      "name": "notes_theme3.txt",
+      "path": "theme3/notes_theme3.txt",
+      "size": 326,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T00:33:00.934707Z",
+      "format": null,
+      "last_modified": "2022-07-12T00:31:50.843493Z",
+      "mimetype": "text/x-python",
+      "name": "diffusion_2d.py",
+      "path": "theme3/diffusion_2d.py",
+      "size": 860,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-12T00:33:00.934707Z",
+  "format": "json",
+  "last_modified": "2022-07-12T00:33:00.934707Z",
+  "mimetype": null,
+  "name": "theme3",
+  "path": "theme3",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

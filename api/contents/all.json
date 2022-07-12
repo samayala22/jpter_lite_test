@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-11T23:03:26.368671Z",
+      "created": "2022-07-12T00:33:00.934707Z",
       "format": null,
-      "last_modified": "2022-07-11T23:03:26.368671Z",
+      "last_modified": "2022-07-12T00:33:00.934707Z",
+      "mimetype": null,
+      "name": "theme3",
+      "path": "theme3",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T00:33:00.938707Z",
+      "format": null,
+      "last_modified": "2022-07-12T00:33:00.938707Z",
       "mimetype": null,
       "name": "theme4",
       "path": "theme4",
@@ -14,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-11T23:03:26.364671Z",
+      "created": "2022-07-12T00:33:00.930707Z",
       "format": null,
-      "last_modified": "2022-07-11T23:03:23.448443Z",
+      "last_modified": "2022-07-12T00:32:58.446593Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-11T23:03:26.364671Z",
+  "created": "2022-07-12T00:33:00.934707Z",
   "format": "json",
-  "last_modified": "2022-07-11T23:03:26.364671Z",
+  "last_modified": "2022-07-12T00:33:00.934707Z",
   "mimetype": null,
   "name": "",
   "path": "",
