@@ -6,7 +6,8 @@
     "XeusPythonEnv": {
         "packages": [
             "numpy",
-            "pandas"
+            "pandas",
+            "matplotlib"
         ]
     }
 }
